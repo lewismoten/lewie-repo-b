@@ -1,0 +1,19 @@
+{
+  "name": "lewie-repo-b",
+  "version": "1.0.0",
+  "description": "lewie-repo-b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/lewie-repo-b.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewismoten/lewie-repo-b/issues"
+  },
+  "homepage": "https://github.com/lewismoten/lewie-repo-b#readme"
+}
